@@ -23,7 +23,6 @@ doctest = false
 bitflags = "2"
 bytes = "1"
 bytemuck = "1"
-chrono = "0"
 image_025 = { package = "image", version = "0.25", optional = true }
 image_024 = { package = "image", version = "0.24", optional = true }
 image_023 = { package = "image", version = "0.23", optional = true }
